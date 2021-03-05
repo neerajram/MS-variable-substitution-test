@@ -3,7 +3,7 @@ name: MS Var replacement
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   PublishNotebooks:
