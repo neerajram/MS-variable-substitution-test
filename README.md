@@ -1,0 +1,1 @@
+# MS-variable-substitution-test
