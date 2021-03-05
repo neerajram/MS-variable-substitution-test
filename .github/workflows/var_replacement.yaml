@@ -22,4 +22,4 @@ jobs:
 
       - name: print config after replacement
         run: |
-          cat config.yaml
+          cat config/config.yaml
